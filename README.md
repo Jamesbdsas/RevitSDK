@@ -3,23 +3,23 @@ https://github.com/Jamesbdsas/RevitSDK
 
 //===================================40
 
-§ó·s®É¶¡ 2019-0525
+æ›´æ–°æ™‚é–“ 2019-0525
 
 //===================================40
 
-Autodesk ºô¯¸¡Aºô§} http://www.autodesk.com/revit-sdk
-Autodesk ¶}µo¤H­ûºô¸ô¡Aºô§}¬° http://adn.autodesk.com
+Autodesk ç¶²ç«™ï¼Œç¶²å€ http://www.autodesk.com/revit-sdk
+Autodesk é–‹ç™¼äººå“¡ç¶²è·¯ï¼Œç¶²å€ç‚º http://adn.autodesk.com
 
 //===================================40
 
 jeremytammik/RevitLookup
-¨Ó·½
+ä¾†æº
 https://github.com/jeremytammik/RevitLookup/releases
 
 //===================================40
 
 RevitSDK
-¨Ó·½
+ä¾†æº
 https://www.autodesk.com/developer-network/platform-technologies/revit
 
 You can also download the updated Revit SDK here:
@@ -34,4 +34,5 @@ Revit 2017.1 SDK (Update Oct 19, 2016)
 Revit 2017 SDK (Update June 23, 2016)
 
 //===================================40
+
 
